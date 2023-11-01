@@ -11,7 +11,11 @@ How to use:<br>
 
 1-If you wish to use it locally, download XAMPP to use the WEB server, with the database already available.<br>
 1.1-Activate APACHE and MYSQL from XAMPP.<br>
+1.2-Click on explorer to open the XAMPP folder.<br>
+1.3-Open the HTDOCS folder and paste the to_do_list folder inside.<br>
 2-Import the SQL file into your database (table structure: users and tasks).<br>
+2.1-If you are using XAMPP, click on admin which is in the MYSQL line.<br>
+2.2-Import the database on the website.<br>
 3-Check the connection file (to_do_list/conexao.php) and adjust it with your database access (if you are using XAMPP, the access will be default, so there is no need to edit).<br>
 4-Paste the project into the desired path on your WEB server and access it with the URL (chosen_path/to_do_list).<br>
 5-Study or use the system, and enjoy!<br>
@@ -30,7 +34,11 @@ Como utilizar:<br>
 
 1-Se desejar utilizar localmente, baixe o XAMPP para o uso do servidor WEB, com o banco de dados ja disponibilizado.<br>
 1.1-Ative o APACHE e o MYSQL do XAMPP.<br>
+1.2-Clique em explorer para abrir pasta do XAMPP.<br>
+1.3-Abra a pasta HTDOCS e cole a pasta to_do_list dentro.<br>
 2-Importar o arquivo SQL em seu banco de dados (estrutura das tabelas: usuarios e tarefas).<br>
+2.1-Caso estaja utilizando o XAMPP, clique em admin que esta na linha do MYSQL.<br>
+2.2-Importe o banco de dados no site.<br>
 3-Verificar o arquivo de conexão(to_do_list/conexao.php) e ajustar com o acesso do seu banco (se estiver utilizando XAMPP o acesso sera padrão, assim não precisando editar).<br>
 4-Cole o projeto no caminho desejado de seu servidor WEB e acesse com a URL (caminho_escolhido/to_do_list).<br>
 5-Estude ou utilize o sistema, e aproveite!<br>
