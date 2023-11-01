@@ -1,7 +1,7 @@
 # to_do_list
 Explicação da aplicação:
 
-A aplicação Web foi desenvolvida com as tecnologias PHP, HTML, CSS(BOOTSTRAP), MYSQL e JavaScript(JQUERY).
+A aplicação Web foi desenvolvida com as tecnologias PHP, HTML, CSS(BOOTSTRAP), MYSQL e JavaScript(JQUERY).\n
 O sistema tem a função cadastros e login para que somente o usuário logado possa acessar as sua listas de tarefas, utilizamos para segurança, o metodo de sessões do PHP.
 Dentro do sistema há a disponibilidade de criar tarefas, aonde tem a data da criação, o título e o texto da tarefa.
 Você tambem poderá editar, excluir e marca-lá como concluída se necessario.
